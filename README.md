@@ -221,9 +221,11 @@ Please keep code style consistent and include tests or example notebooks for non
 ## Author
 
 **Name** — **Sahil Vikas Gawade**
+
 Contact me via GitHub or email!
-**GitHub**: `https://github.com/zenitsu52`
-**Email**: `sahilgawade46@gmail.com`
+
+* **GitHub**: `https://github.com/zenitsu52`
+* **Email**: `sahilgawade46@gmail.com`
 
 ---
 
